@@ -1,1 +1,1 @@
-"Hola, hombre!"
+puts "Adios, mi amigo!"

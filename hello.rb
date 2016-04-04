@@ -1,1 +1,1 @@
-puts "Adios, mi amigo!"
+"Hola, hombre!"
